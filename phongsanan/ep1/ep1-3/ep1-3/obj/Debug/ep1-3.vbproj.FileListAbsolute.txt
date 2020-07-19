@@ -1,0 +1,10 @@
+C:\phongsanan\ep1\ep1-3\ep1-3\bin\Debug\ep1-3.exe.config
+C:\phongsanan\ep1\ep1-3\ep1-3\bin\Debug\ep1-3.exe
+C:\phongsanan\ep1\ep1-3\ep1-3\bin\Debug\ep1-3.pdb
+C:\phongsanan\ep1\ep1-3\ep1-3\bin\Debug\ep1-3.xml
+C:\phongsanan\ep1\ep1-3\ep1-3\obj\Debug\WindowsApplication1.Form1.resources
+C:\phongsanan\ep1\ep1-3\ep1-3\obj\Debug\WindowsApplication1.Resources.resources
+C:\phongsanan\ep1\ep1-3\ep1-3\obj\Debug\ep1-3.vbproj.GenerateResource.Cache
+C:\phongsanan\ep1\ep1-3\ep1-3\obj\Debug\ep1-3.exe
+C:\phongsanan\ep1\ep1-3\ep1-3\obj\Debug\ep1-3.xml
+C:\phongsanan\ep1\ep1-3\ep1-3\obj\Debug\ep1-3.pdb
